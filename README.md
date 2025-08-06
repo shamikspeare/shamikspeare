@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shamikspeare
 - 👀 I’m interested in robotics 
-- 🌱 I’m currently learning dsa, web dev and supervised machine learning
+- 🌱 I’m currently learning dsa, web dev and machine learning
 - 📫 Reach me at  -> gshamik14@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love to play guitar
